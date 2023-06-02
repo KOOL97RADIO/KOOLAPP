@@ -2,19 +2,19 @@
 <rotator>
   <panel>
     <number>1</number>
-    <image>https://sample.com/image1.jpg</image>
+    <image>https://https://tinypic.host/i/3.onYM9A</image>
     <url>https://sample.com/donate</url>
     <redirect>n</redirect>
   </panel>
   <panel>
     <number>2</number>
-    <image>https://sample.com/image2.jpg</image>
+    <image>https://https://tinypic.host/i/2.onY8nQ</image>
     <url>https://sample.com/news</url>
     <redirect>n</redirect>
   </panel>
   <panel>
     <number>3</number>
-    <image>https://sample.com/image3.jpg</image>
+    <image>https://https://tinypic.host/i/1.onYVMB</image>
     <url>https://sample.com/events</url>
     <redirect>n</redirect>
   </panel>
