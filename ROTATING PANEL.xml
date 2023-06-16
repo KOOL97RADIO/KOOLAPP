@@ -14,12 +14,18 @@
   </panel>
   <panel>
     <number>3</number>
-    <image></image>
+    <image>https://github.com/KOOL97RADIO/KOOLAPP/blob/main/Creative%20Buidling.jpg?raw=true</image
     <url>https://https://hyundaijamaica.com/index.php/time-for-hyundai-promotion</url>
     <redirect>n</redirect>
   </panel>
 </rotator>
   <number>4</number>
+    <image>https://https://https://github.com/KOOL97RADIO/KOOLAPP/blob/main/Time%204%20Hyunda%20-%20Sales%20Promotion-600x200.jpeg?raw=true</image>
+    <url>https://https://hyundaijamaica.com/index.php/time-for-hyundai-promotion</url>
+    <redirect>n</redirect>
+  </panel>
+</rotator>
+<number>4</number>
     <image>https://https://https://github.com/KOOL97RADIO/KOOLAPP/blob/main/Time%204%20Hyunda%20-%20Sales%20Promotion-600x200.jpeg?raw=true</image>
     <url>https://https://hyundaijamaica.com/index.php/time-for-hyundai-promotion</url>
     <redirect>n</redirect>
