@@ -1,51 +1,53 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <rotator>
-  <panel>
-    <number>1</number>
-    <image>https://github.com/KOOL97RADIO/KOOLAPP/blob/main/FIACG.jpg</image>
-    <url>https://www.fiacg.com/</url>
-    <redirect>n</redirect>
-  </panel>
-  
-  <panel>
-    <number>2</number>
-    <image>https://github.com/KOOL97RADIO/KOOLAPP/blob/main/MSC.jpeg</image>
-    <url>Https://mscmckay.com/</url>
-    <redirect>n</redirect>
-  
-   <panel>
-    
-    <number>3</number>
-    <image>https://github.com/KOOL97RADIO/KOOLAPP/blob/main/Creative.jpg</image
-    <url>https://creativebuildingfinishes.com/</url>
-    <redirect>n</redirect>
-     
-  </panel>
 
-    <number>4</number>
-    <image>https://github.com/KOOL97RADIO/KOOLAPP/blob/main/Hyundai.jpeg</image>
-    <url>https://hyundaijamaica.com/index.php/time-for-hyundai-promotion</url>
-    <redirect>n</redirect>
-    
-  </panel>
+    <panel>
+        <number>1</number>
+        <image>https://github.com/KOOL97RADIO/KOOLAPP/blob/main/FIACG.jpg</image>
+        <url>https://www.fiacg.com/</url>
+        <redirect>n</redirect>
+    </panel>
+	
+    <panel>
+        <number>2</number>
+        <image>https://github.com/KOOL97RADIO/KOOLAPP/blob/main/MSC.jpeg</image>
+        <url>Https://mscmckay.com/</url>
+        <redirect>n</redirect>
+    </panel>
+	
+    <panel>
+        <number>3</number>
+        <image>https://github.com/KOOL97RADIO/KOOLAPP/blob/main/Creative.jpg</image>
+        <url>https://creativebuildingfinishes.com/</url>
+        <redirect>n</redirect>
+    </panel>
+	
+    <panel>
+        <number>4</number>
+        <image>https://github.com/KOOL97RADIO/KOOLAPP/blob/main/Hyundai.jpeg</image>
+        <url>https://hyundaijamaica.com/index.php/time-for-hyundai-promotion</url>
+        <redirect>n</redirect>
+    </panel>
+	
+    <panel>
+        <number>5</number>
+        <image>https://github.com/KOOL97RADIO/KOOLAPP/blob/main/Electro.jpg</image>
+        <url>https://electrolocsecurity.com/</url>
+        <redirect>n</redirect>
+    </panel>
+	
+    <panel>
+        <number>6</number>
+        <image>https://github.com/KOOL97RADIO/KOOLAPP/blob/main/Empire.jpg</image>
+        <url>https://empire-stationery.business.site/</url>
+        <redirect>n</redirect>
+    </panel>
+	
+    <panel>
+        <number>7</number>
+        <image>https://github.com/KOOL97RADIO/KOOLAPP/blob/main/TML.jpeg</image>
+        <url>https://totallymalespa.com/</url>
+        <redirect>n</redirect>
+    </panel>>
 
-    <number>5</number>
-    <image>https://github.com/KOOL97RADIO/KOOLAPP/blob/main/Electro.jpg</image>
-    <url>https://electrolocsecurity.com/</url>
-    <redirect>n</redirect></panel>
-
-   </panel>
-    <number>6</number>
-    <image>https://github.com/KOOL97RADIO/KOOLAPP/blob/main/Empire.jpg</image>
-    <url>https://empire-stationery.business.site/</url>
-    <redirect>n</redirect>
-  
-  </panel>
-    <number>7</number>
-    <image>https://github.com/KOOL97RADIO/KOOLAPP/blob/main/TML.jpeg</image>
-    <url>https://totallymalespa.com/</url>
-    <redirect>n</redirect>
-   </panel>>
-  
-  </rotator>
-
+</rotator>
